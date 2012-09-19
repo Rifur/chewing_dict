@@ -1,0 +1,594 @@
+命令列介面
+圖形化使用者介面
+大型作業系統
+超級電腦
+嵌入式系統
+手機
+檔案系統
+網路
+內部記憶體
+電腦程式
+軟體
+硬體
+電腦
+電腦科學
+歷史
+1980年代前
+1980年代
+1990年代
+今日
+個人電腦
+大型電腦
+嵌入式系統
+類Unix系統
+微軟Windows
+蘋果Mac OS
+Chrome OS
+其他
+未來
+功能
+行程管理
+內部記憶體管理
+磁碟與檔案系統
+網路
+安全
+內部通訊安全
+外部通訊安全
+使用者介面
+驅動程式
+結構
+分類
+核心結構
+通用與專用、嵌入式
+即時與非即時
+8位元、16位元、32位元、64位元、128位元
+參見
+參考文獻
+參考書目
+外部連結
+編輯
+作業系統歷史
+分散式系統
+多處理器
+分時機制
+批次模式
+工作排序
+編輯
+序列化
+批次處理
+微程式
+莫里斯·威爾克斯
+電晶體
+1947年
+算盤
+OS/360
+大型電腦
+System/360
+IBM
+1964年
+Multics
+分時
+Direct access storage device
+DASD
+硬碟機
+VMS
+小型電腦
+C語言
+Unix
+肯·湯普遜
+丹尼斯·里奇
+AT&amp;T
+1970年代
+[1]
+Multics
+貝爾實驗室
+奇異公司
+1963年
+編輯
+核心
+直譯器
+BASIC
+BIOS
+Commodore C64
+喇叭
+鍵盤
+螢幕
+記憶體
+ROM
+微型電腦
+機器語言
+ROM
+BASIC
+中央處理單元
+硬體
+微軟
+PC-DOS
+IBM PC
+ISR
+Intel-80286處理器
+MS-DOS
+[2]
+磁碟作業系統
+軟式磁碟機
+Intel-8088處理器
+MS-DOS
+CP/M
+文字編輯器
+應用程式
+MS-DOS
+BIOS
+中央處理單元
+硬體
+史提夫·賈伯斯
+伯拉圖實驗室
+全錄
+麥金塔
+Mac OS
+編輯
+Apple I
+個人電腦
+史提夫·賈伯斯
+Mac OS X
+Crash
+崩潰
+系統呼叫
+記憶體空間
+多行程
+可移植性
+許可證
+GNU計畫
+POSIX
+Linux
+赫爾辛基大學
+芬蘭
+與AT&amp;T的法律爭端
+BSD
+開放原碼
+OpenOffice.org
+vi
+KDE
+函式庫
+Windows NT
+Windows 2000
+Windows 95
+Windows 3.1
+7月27日
+1993年
+OS/2
+比爾·蓋茲
+硬體抽象層
+OS/2
+DOS
+POSIX
+DLL函式庫
+Windows Vist
+Windows Server 2003
+Windows XP
+Intel 80386
+執行環境
+嵌入式作業系統
+編輯
+>殼
+命令列介面
+圖形化使用者介面
+類Unix
+Windows
+MIPS Magnum
+DEC Alph
+BSD
+Linux
+嵌入式系統
+大型機
+編輯
+Apple Macintosh
+IBM相容PC
+編輯
+Unisys
+B5000
+Burroughs MCP
+IBM zSeries
+IBM System/360
+OS/360
+Unisys
+UNIVAC 1108
+EXEC 8
+編輯
+Palm OS
+Symbian OS
+eCos
+VxWorks
+編輯
+類Unix
+KDE SC 4
+The Open Group
+Linux
+BSD
+System V
+工作站
+伺服器
+Ubuntu
+自由軟體
+GNU通用公共許可證
+理察·斯托曼
+Linux
+Minix
+林納斯·托瓦茲
+FreeBSD
+Mach
+NeXTSTEP
+Mac OS X
+x86
+Solaris
+SUN
+AIX
+HP-UX
+HP
+Vita Nuov
+Lucent Public License
+圖形化使用者介面
+Inferno
+九號計畫
+貝爾實驗室
+IRIX
+SGI
+開源
+[來源請求]
+BSD
+編輯
+Microsoft Windows
+[3]
+PowerPC
+MIPS
+DEC Alph
+AMD
+Intel
+OpenVMS
+OS/2
+Windows NT
+MS-DOS
+Microsoft Windows
+Windows 7
+Aero Glass
+[4]
+4月21日
+2008年
+8月24日
+2004年
+10月25日
+2001年
+編輯
+Mac OS X
+Mac OS
+Mac OS X v10.8
+比爾·阿特金森
+圖形化使用者介面
+Macintosh
+編輯
+Google Chrome OS
+Chrome
+編輯
+Windows XP Embedded
+Windows NT
+Windows CE
+Android
+嵌入式
+XTS-400
+BeOS
+[5]
+OS/2
+RISC OS
+AmigaOS
+達康時代
+編輯
+桌面環境
+雲運算
+eyeOS
+記憶體保護
+.Net
+Singularity
+GNU Hurd
+編輯
+編輯
+執行緒
+行程
+多行程
+TSR
+終止並等待駐留
+中央處理單元
+馮·諾伊曼結構
+行程
+協同技術
+死結
+行程間通訊
+虛擬機器
+執行緒
+編輯
+GB
+磁碟儲存裝置
+記憶體
+快取
+暫存器
+階層式
+程式設計師
+paging
+分頁
+編輯
+檔案系統
+ZFS
+Solaris
+UFS
+Windows
+NTFS
+FAT
+JFS
+XFS
+Google檔案系統
+NILFS
+OCFS2
+OCFS
+GFS2
+GFS
+Reiser4
+ReiserFS
+ext4
+ext3
+ext2
+Linux
+微軟
+Journaling file system
+日誌式
+編輯
+TCP/IP
+UDP
+NFS
+DECnet
+DEC
+SNA
+IBM
+編輯
+資訊安全
+System call
+系統呼叫
+Authorization
+授權
+Authentication
+認證
+病毒
+DOS
+P2P
+HTTP
+FTP
+TCSEC
+可信賴之計算機系統評鑑程式
+國防部
+美國
+編輯
+CPU
+虛擬機器
+Jav
+虛擬碼
+p-Code
+類比
+編輯
+Telnet
+防火牆
+FTP
+網頁服務
+電子郵件
+NFS
+>埠
+編輯
+模組化
+藍白當機畫面
+Mac OS
+核心
+圖形化使用者介面
+[來源請求]
+KDE
+GNOME
+X Window
+Minix
+[6]
+編輯
+驅動程式
+Interrupt handler
+核心
+編輯
+POSIX
+GNU C執行期庫
+API
+Linux
+UNIX
+外核
+虛擬機器
+編輯
+64bit
+嵌入式作業系統
+單核心作業系統
+分布式作業系統
+網路作業系統
+即時作業系統
+分時作業系統
+批處理作業系統
+編輯
+核心
+外核
+超微核心
+微核心
+單核心
+1950年代
+1960年代
+1980年代
+20世紀
+1980年代
+嵌入式系統
+微軟
+Windows
+Linux
+Unix
+QNX
+1980年代
+1970年代
+1960年代
+編輯
+編輯
+即時作業系統
+Windows
+UNIX
+Linux
+RTLinux
+VxWorks
+QNX
+POSIX
+編輯
+編輯
+電腦
+作業系統核心
+多使用者
+單一使用者
+嵌入式系統
+多工
+分時系統
+即時作業系統
+分布式計算
+集群
+對稱多處理機
+64位元作業系統
+Unix
+FreeBSD
+Solaris
+AIX
+HP-UX
+IRIX
+Tru64
+MS-DOS
+GNU/Linux
+Mac OS
+Windows
+Windows NT
+其它作業系統
+核心
+微內核
+單核心
+混合核心
+超微核心
+外核
+使用者空間
+驅動程式
+可載入核心模組
+Server
+核心空間
+行程管理
+多執行緒
+核心態
+Preemptive multitasking
+英語
+搶先多工處理
+Cooperative multitasking
+英語
+協同多工處理
+多工處理
+上下文交換
+排程
+Supervisor mode
+保護模式
+中斷
+行程控制表
+Multiprogramming
+英語
+多元程式規劃
+行程
+記憶體管理
+匯流排錯誤
+一般保護錯誤
+記憶段錯誤
+分頁
+區段
+內部記憶體保護
+電腦網路
+電腦科學
+數學基礎
+資訊理論
+數值分析
+範疇論
+型別論
+圖論
+數論
+集合論
+數理邏輯
+計算理論
+數值計算方法
+量子計算
+計算複雜性理論
+可計算性理論
+自動機
+資料結構
+演算法
+計算幾何
+演算法設計
+演算法分析
+編譯器
+程式語言
+編程典範
+邏輯編程
+函數語言程式設計
+物件導向程式編程
+程序化編程
+直譯器
+語法分析器
+分布式
+並列
+並行
+並行控制
+網格計算
+多處理器
+軟體工程
+軟體開發過程
+軟體測試
+形式化方法
+程式設計
+軟體設計
+需求分析
+系統架構
+微處理器體系結構
+電腦系統結構
+網路
+電信
+密碼學
+網路拓撲
+路由
+資料庫
+資料探勘
+資料庫索引
+事務處理
+SQL
+關聯式資料庫
+資料庫管理系統
+人工智慧
+機器人學
+自然語言處理
+機器學習
+專家系統
+進化計算
+電腦視覺
+計算語言學
+自動推理
+電腦圖形學
+影像處理
+電腦動畫
+視覺化
+人機互動
+虛擬現實
+普適計算
+可穿戴電腦
+使用者介面
+電腦輔助功能
+科學計算
+符號計算
+數值演算法
+計算物理學
+計算神經科學
+計算化學
+認知科學
+生物資訊學
+人工生命
