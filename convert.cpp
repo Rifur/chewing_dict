@@ -1,8 +1,5 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include <iostream>
 /**
- * hash.c
+ * convert.c
  *
  * Copyright (c) 2012 Rifur Ni, Joe Angel and Seachaos Ye.
  *
@@ -10,6 +7,7 @@
  * of this file.
  */
 
+#include <iostream>
 #include <fstream>
 #include <ctime>
 #include <string>
