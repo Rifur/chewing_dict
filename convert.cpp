@@ -1,6 +1,15 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <iostream>
+/**
+ * hash.c
+ *
+ * Copyright (c) 2012 Rifur Ni, Joe Angel and Seachaos Ye.
+ *
+ * See the file "COPYING" for information on usage and redistribution
+ * of this file.
+ */
+
 #include <fstream>
 #include <ctime>
 #include <string>
