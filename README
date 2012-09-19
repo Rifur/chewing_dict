@@ -1,0 +1,14 @@
+Chewing-dict: A simple tool for generating chewing dictionary file with chewing-utils's format.
+
+Requirement(s):
+	g++ or clang++
+	If you want to build a binary-format dictionary file, need chewing-utils.
+
+Building and running:
+	$ make
+	$ ./convert raw_file.txt
+
+
+ACKNOWLEDGEMENT
+	We use libchewing project's file: phone.cin 
+	<(_ _)>
