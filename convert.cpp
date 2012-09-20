@@ -103,9 +103,8 @@ string WordTable::search(string str)
 	int k = length >> 1;
 	int left = 0;
 	int right = length - 1;
-	int i = 0;
 
-	while(left <= right) { ++i; if(i == 20) sleep(20);
+	while(left <= right) {
 
 		k = (left + right) >> 1;
 		if(str.compare(table[k]->word) > 0) { left = k+1; }
