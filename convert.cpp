@@ -123,7 +123,7 @@ string key2Zhuin(string str)
 	char *key = (char *)str.c_str();
 	int len = strlen(key);
 	string s = "";
-	bool firstTone = true;
+	bool split = true;
 
 	static const char *ph_str[] =
 	{"\xE3\x84\x85", "\xE3\x84\x86", "\xE3\x84\x87", "\xE3\x84\x88",
@@ -151,16 +151,16 @@ string key2Zhuin(string str)
 	static int	key_len = strlen(key_str);
 
 	for(int i=0; i<len; ++i) {
-		firstTone = true;
+		split = true;
 		for(int j=0; j<key_len; ++j) {
 			if(key_str[j] == key[i]) {
 				s.append(ph_str[j]);
-				firstTone = false;
+				split = false;
 				break;
 			}
 		}
 
-		if(firstTone || (key[i]=='7' || key[i]=='6' || key[i]=='3' || key[i]=='4')) {
+		if(split) {
 			s.append(" ");
 		}
 	}
