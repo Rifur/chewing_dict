@@ -25,9 +25,6 @@ public:
 class WordTable
 {
 public:
-	wordNode *table[40960];
-	int length;
-
 	WordTable();
 	void append(string str);
 	void sort();
@@ -37,6 +34,9 @@ public:
 private:
 	void quicksort(int left, int right);
 
+private:
+	wordNode *table[40960];
+	int length;
 };
 
 WordTable::WordTable()
